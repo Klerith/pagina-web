@@ -1,16 +1,8 @@
 # mi-pagina
 Este es un demo para probar todo el poder que tiene GitHub
 
-## Cambios del Rebase
-Nada nuevo
+## Getting Started
 
-Para forzar conflictos - GITHUB!!!
-
-## Esto causará problemas
-No hay que tener miedo, es normal realizar estas acciones
-a veces pasa cuando no sincronizamos los directorios
-por un buen tiempo
-
-
-### Objetivo
-El objetivo de este commit, es realizar un ejemplo con los tags
+1. Simplemente ejecuta un `npm install` para ejecutar instalar todo los paquetes.
+2. Luego, entra en el directorio `src`
+3. Diviertete
